@@ -4,7 +4,7 @@
 MoodBoard is a full-stack web application that allows users to submit short mood posts, optionally attach an image, and view a shared feed of all submitted entries.
 
 ## Setup and Run Instructions
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/pratim808/MoodBoard-local.git`
 2. Navigate to the backend folder: `cd MoodBoard/backend`
 3. Install dependencies: `npm install`
 4. Start the backend server: `node server.js`
